@@ -18,5 +18,11 @@
         "content": "I'm sorry, but I'm an AI language model and I don't have access to any visual interface to change the background color. However, you can change the background color by using an image editing software, by choosing a new background color and then saving the edited image.",
         "timestamp": "07082024183303",
         "message_id": "guest07082024183302"
+    },
+    {
+        "role": "user",
+        "content": "Change the background to be brown",
+        "timestamp": "07082024183318",
+        "message_id": "guest07082024183318"
     }
 ]
