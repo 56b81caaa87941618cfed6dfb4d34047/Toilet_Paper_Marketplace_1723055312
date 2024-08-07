@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I can change the background to brown.",
+        "message_id": "guest07082024195147",
+        "timestamp": "07082024195148",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change the background to be brown",
         "message_id": "guest07082024195147",
